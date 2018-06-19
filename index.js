@@ -25,5 +25,8 @@ function deepestChild() {
     node = nextNode
     nextNode = node.children[0]
   }
+<<<<<<< HEAD
   return node
+=======
+>>>>>>> cca5fa2bb21309e7c28758cd9f81165c622d984e
 }
